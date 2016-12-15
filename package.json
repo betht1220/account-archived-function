@@ -1,0 +1,22 @@
+{
+  "name": "account-archived-function",
+  "version": "1.0.0",
+  "description": "Account archived AWS Lambda function",
+  "main": "index.js",
+  "dependencies": {
+    "traverson": "^3.2.0",
+    "traverson-hal": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbastani/account-archived-function.git"
+  },
+  "author": "kbastani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbastani/account-archived-function/issues"
+  },
+  "homepage": "https://github.com/kbastani/account-archived-function#readme"
+}
